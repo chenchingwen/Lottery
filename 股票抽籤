@@ -1,5 +1,5 @@
 function Lottery() {
-  var token = "輸入自己的權杖";
+  var token = "54nIoWmW6eY3lGMGG6kUXNLjRLK7FZUWOTnFTZAx3PB";
   var sheet1 = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("抽籤");
   var stock=[];
   for(i=2;i<10;i++){
